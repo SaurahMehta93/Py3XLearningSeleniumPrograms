@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86bafb0e-bc55-4590-af4c-f7518981c99b" name="Changes" comment="Added new pages in new project">
-      <change afterPath="$PROJECT_DIR$/12Jul2024/test_MiniProject4_Pramod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12Jul2024/test_MiniProject3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12Jul2024/test_MiniProject4.py" beforeDir="false" afterPath="$PROJECT_DIR$/12Jul2024/test_MiniProject4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723599450024</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added new pages in new project">
+      <option name="closed" value="true" />
+      <created>1723599609254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723599609254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
